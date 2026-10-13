@@ -31,27 +31,7 @@ Install Python 3 if you don't already have it.
 
 ### Running the Game
 
-1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/penjamin-simulator.git
-   ```
-
-2. Navigate into the project directory:
-
-   ```bash
-   cd penjamin-simulator
-   ```
-
-3. Run the Python script:
-
-   ```bash
-   python main.py
-   ```
-
-   Depending on your system, you may need to use `python3 main.py` instead.
-
-*Replace `YOUR-USERNAME` with your GitHub username and `main.py` with your actual Python filename if it's different.*
 
 ## 🛒 Upgrades
 
@@ -105,11 +85,7 @@ This is an early-stage beginner project, so some features are still being develo
 
 ## 👨‍💻 About This Project
 
-I'm a beginner programmer using small projects like this to practice Python, learn problem-solving, and gradually build more substantial software.
-
-The goal isn't to make every project impressive. It's to keep building, experimenting, and learning something new with each one.
-
-Sometimes the best way to learn programming is to build something completely ridiculous.
+Im delusional and like building just straight up nonsense
 
 ---
 
